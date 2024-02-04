@@ -1,9 +1,5 @@
 import Image from "next/image";
 
-// Button in next
-
-
-
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -60,7 +56,6 @@ export default function Home() {
             Find in-depth information about Next.js features and API.
           </p>
         </a>
-
       </div>
     </main>
   );
